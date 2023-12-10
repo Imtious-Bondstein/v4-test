@@ -1,0 +1,17 @@
+.favorite-url-shadow {
+    box-shadow: 4px 4px 10px rgba(83, 65, 0, 0.05), -4px -4px 13px rgba(255, 255, 255, 0.5), 6px 6px 30px rgba(233, 224, 210, 0.2);
+}
+
+.favorite-url-shadow:hover {
+    box-shadow: 0px 4px 18px rgba(253, 209, 14, 0.4);
+}
+
+.Favourite ::-webkit-scrollbar {
+    height: 0px;
+}
+.Favourite ::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+.Favourite ::-webkit-scrollbar-track {
+    background-color: transparent;
+}

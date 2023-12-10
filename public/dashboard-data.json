@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+
+  {
+    "id": 2,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "00.00 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 3,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 4,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 5,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 6,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 7,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 8,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 9,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 10,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 11,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 12,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 13,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 14,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 15,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 16,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 17,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+
+  {
+    "id": 18,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "00.00 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 19,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 20,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 21,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 22,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 23,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 24,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 25,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 26,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 27,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 28,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 29,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 30,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 31,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 32,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 111,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+
+  {
+    "id": 112,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "00.00 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 113,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 114,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 115,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 116,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 117,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 118,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 119,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 110,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 111,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 112,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 113,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 114,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 115,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 116,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 117,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+
+  {
+    "id": 118,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "00.00 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 119,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 120,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 121,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 122,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 123,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 124,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Offline"
+  },
+  {
+    "id": 125,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 126,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 127,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 128,
+    "user": "Fazle Rabbi",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Subscription Expired",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 129,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 130,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  },
+  {
+    "id": 131,
+    "user": "Sana Rahman",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Need Maintenance",
+    "speedStatus": "10.50 K/H",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Suspended"
+  },
+  {
+    "id": 132,
+    "user": "Tushar Khan",
+    "VehicleNo": "TMV 28286 DM LA 118-4479",
+    "Landmark": "Uttar Begun Bari Road Tejgaon",
+    "speedStatus": "Engine. off",
+    "date": "5 Jan 2023 | 2:33 pm",
+    "deviceStatus": "Live"
+  }
+]

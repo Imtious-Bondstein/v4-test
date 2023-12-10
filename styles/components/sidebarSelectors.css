@@ -1,0 +1,54 @@
+.calc-height {
+  height: calc(100% - 118px);
+}
+.calc-height-80 {
+  height: calc(100% - 80px);
+}
+
+.calc-height-70 {
+  height: calc(100% - 70px);
+}
+
+.calc-height-260 {
+  height: calc(100% - 260px);
+}
+.calc-height-315 {
+  height: calc(100% - 315px);
+}
+.calc-height-190 {
+  height: calc(100% - 190px);
+}
+
+.selected-vehicles {
+  width: 100%;
+  height: 100%;
+}
+
+.selected-vehicles .image {
+  height: 100%;
+}
+
+/* .pie-chart {
+  min-height: 480px !important;
+} */
+
+/* .pie-chart > div {
+  min-height: 480px !important;
+} */
+
+.chart-width {
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  .selected-vehicles {
+    width: 327px;
+    height: 79vh;
+  }
+  .selected-vehicles .image {
+    height: 260px;
+  }
+  .alert-summary-line-chart {
+    width: 495px;
+  }
+}

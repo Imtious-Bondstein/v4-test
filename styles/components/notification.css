@@ -1,0 +1,44 @@
+.triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid #555;
+    border-radius: 2px;
+    /* box-shadow: 4px 4px 10px rgba(135, 81, 0, 0.05),
+        -4px -4px 13px rgba(255, 255, 255, 0.5),
+        6px 6px 30px rgba(135, 32, 0, 0.1); */
+}
+
+.notification-shadow {
+    box-shadow: 4px 4px 10px rgba(135, 81, 0, 0.05),
+        -4px -4px 13px rgba(255, 255, 255, 0.5),
+        6px 6px 30px rgba(135, 32, 0, 0.1);
+}
+
+/* Firefox */
+/* Designing for scroll-bar */
+/* width */
+.scrollGray::-webkit-scrollbar {
+    width: 8px;
+    border-radius: 13px;
+}
+
+/* Track */
+.scrollGray::-webkit-scrollbar-track {
+    background-color: #f8f8fa;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 15px;
+}
+
+/* Handle */
+.scrollGray::-webkit-scrollbar-thumb {
+    background-color: #c9d1da;
+    border-radius: 13px;
+    width: 20px;
+}
+
+/* Handle on hover */
+.scrollGray::-webkit-scrollbar-thumb:hover {
+    background-color: #e6eef8;
+}

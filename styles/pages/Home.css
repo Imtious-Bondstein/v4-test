@@ -1,0 +1,193 @@
+.backgroundImage {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 80% -100%;
+  /* background-size: 100% 100%; */
+}
+ 
+.auth-layout ::-webkit-scrollbar {
+  height: 0px;
+}
+.auth-layout ::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+.auth-layout ::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+@media only screen and (min-width: 768px){
+  .backgroundImage {
+    background-position: center;
+  }
+}
+
+.amimatedImg {
+  /* background-position: center right; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-size: 100% 100%; */
+}
+
+/* checkbox start */
+.checkbox {
+  accent-color: white;
+  width: 24px;
+  height: 24px;
+  box-shadow: 4px 4px 10px rgba(135, 81, 0, 0.05),
+    -4px -4px 13px rgba(255, 255, 255, 0.5), 6px 6px 30px rgba(135, 32, 0, 0.1);
+  outline: 0;
+}
+
+/* Firefox */
+/* Designing for scroll-bar */
+/* width */
+.scrollGray::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 13px;
+}
+
+/* Track */
+.scrollGray::-webkit-scrollbar-track {
+  background-color: #f8f8fa;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.05);
+  border-radius: 15px;
+}
+
+/* Handle */
+.scrollGray::-webkit-scrollbar-thumb {
+  background-color: #c9d1da;
+  border-radius: 13px;
+  width: 20px;
+}
+
+/* Handle on hover */
+.scrollGray::-webkit-scrollbar-thumb:hover {
+  background-color: #e6eef8;
+}
+
+/* vehicle route map */
+.marker_speed_control {
+  padding: 0.5em 1.5em 0.5em 1em;
+  margin: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("/downArrow.svg");
+  background-position: 97%;
+  background-repeat: no-repeat;
+}
+
+/* Main Logo */
+.main-logo {
+  width: 120px;
+  height: 120px;
+}
+
+@media only screen and (min-width: 640px){
+	.main-logo {
+    width: 150px;
+    height: 150px;
+  }
+}
+@media only screen and (min-width: 768px){
+	.main-logo {
+    width: 221px;
+    height: 220px;
+  }
+}
+
+
+/* Input & Submit Button */
+
+.input, .submit {
+  height: 48px!important;
+}
+
+
+@media only screen and (min-width: 768px){
+	.input, .submit {
+    height: 52px;
+  }
+}
+
+/* OTP Verify */
+
+.disabled-resend-otp-btn {
+  color: #d1d1d1 ;
+  cursor: not-allowed;
+}
+
+.otp-verify-input input {
+  height: 48px!important;
+  width: 48px!important;
+  font-size: 24px;
+}
+
+@media only screen and (min-width: 768px){
+	.otp-verify-input input {
+    height: 72px!important;
+    width: 74px!important;
+    font-size: 40px;
+  }
+}
+
+/* Reset Password OTP Send */
+
+.reset-pass-title::after {
+  content: "Verification"
+}
+
+@media only screen and (min-width: 768px){
+	.reset-pass-title::after {
+    content: "Verify"
+  }
+}
+/* Dashboard Topbar & Left Panel Icons */
+
+.menu-controller {
+  width: 20px;
+  height: 20px;
+}
+.favourite-icon {
+  width: 25px;
+  height: 25px;
+}
+.topbar-profile {
+  width: 32px;
+  height: 32px;
+}
+.speed-toltip {
+  padding: 10px 18px;
+  border-radius: 12px;
+  margin: 0px 10px;
+}
+.speed-toltip p {
+  font-size: 12px;
+  color: #6A7077;
+}
+
+@media only screen and (min-width: 400px){
+  .speed-toltip {
+    padding: 18px 24px;
+    border-radius: 12px;
+  }
+}
+@media only screen and (min-width: 768px){
+  .menu-controller {
+    width: 30px;
+    height: 28px;
+  }
+	.favourite-icon {
+    width: 18px;
+    height: 18px;
+  }
+  .topbar-profile {
+    width: 38px;
+    height: 38px;
+  }
+  .topbar-fav-btn:hover .favourite-icon {
+    stroke: #FF6B6B;
+    fill: #FF6B6B;
+  }
+}
+

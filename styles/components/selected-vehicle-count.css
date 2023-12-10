@@ -1,0 +1,24 @@
+.search-toggle-button {
+  min-width: 35px;
+  min-height: 35px;
+  /* max-height: px; */
+  max-width: 100px;
+  font-size: 15px;
+  background: linear-gradient(90deg, #F36B24 0%, #FDD10E 100%);
+  border-radius: 24px 0px 0px 24px;
+}
+.search-toggle-button svg path {
+  fill: white!important;
+}
+.search-toggle-button button .search-toggle-button-svg svg {
+  stroke: white!important;
+}
+.search-toggle-button p {
+  color: #ffffff;
+}
+
+@media only screen and (min-width: 400px){
+  .search-toggle-button {
+    max-height: 40px;
+  }
+}
